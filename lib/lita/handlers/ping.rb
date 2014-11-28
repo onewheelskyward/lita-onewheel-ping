@@ -130,7 +130,7 @@ module Lita
           http://www.argudo.org/~jpargudo/elephant_deal_scale30.png
           )
 
-        if msg.user.nick == 'incanus77'  # Hi, Justin!
+        if response.user.name == 'incanus77'  # Hi, Justin!
           pong = %w(
                  http://i.imgur.com/JTW4cle.jpg
                  https://f.cloud.github.com/assets/5572214/2140070/38283e06-9347-11e3-85a8-78b30b2f5701.JPG
