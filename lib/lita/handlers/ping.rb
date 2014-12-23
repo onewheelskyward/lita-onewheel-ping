@@ -9,7 +9,7 @@ module Lita
       route(/^\!*ping/i, :ping, help: {
         "(!)ping" => "PONG"
       })
-      route(/ong$/i, :pong)
+      # route(/ong$/i, :pong)
 
       def ping(response)
         pong_images = %w( http://img209.imageshack.us/img209/366/toast.gif
