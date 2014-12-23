@@ -5694,7 +5694,8 @@ zoning
 zoografting
 )
         Lita.logger.info("Checking username '#{response.user.name}'")
-        if response.user.name.equal?('zrobo')
+        Lita.logger.info("Checking room '#{response.message.source.room}'")
+        if response.user.name.equal?('zrobo') and response.message.source.room.equal?('#pdxbots')
           Lita.logger.info("Sending reply.")
           response.reply pingers.sample
         end
