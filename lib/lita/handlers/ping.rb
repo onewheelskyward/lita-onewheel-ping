@@ -5693,7 +5693,9 @@ zipping
 zoning
 zoografting
 )
+        Lita.logger.info("Checking username '#{response.user.name}'")
         if response.user.name.equal?('zrobo')
+          Lita.logger.info("Sending reply.")
           response.reply pingers.sample
         end
       end
