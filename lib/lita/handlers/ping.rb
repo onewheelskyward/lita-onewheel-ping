@@ -133,6 +133,7 @@ module Lita
 	  https://s3.amazonaws.com/uploads.hipchat.com/81832/802537/W5eCbKps6O51EdR/train4.gif
 	  http://img4.wikia.nocookie.net/__cb20080221152750/uncyclopedia/images/archive/8/84/20080221152925!332253819lsf1.jpg
 	  https://cloud.githubusercontent.com/assets/17722/5541169/2823d6ac-8a89-11e4-86be-2db64cbcb344.gif
+	  http://i.imgur.com/TDZVASd.gif
           )
 
         if response.user.name == 'incanus77'  # Hi, Justin!
