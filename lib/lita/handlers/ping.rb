@@ -9,7 +9,7 @@ module Lita
       route(/^\!*ping/i, :ping, help: {
         "(!)ping" => "PONG"
       })
-      route(/fix.it/i, :fixit)
+#      route(/fix.it/i, :fixit)
 
       # route(/ong$/i, :pong)
 
