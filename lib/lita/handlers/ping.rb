@@ -9,7 +9,13 @@ module Lita
       route(/^\!*ping/i, :ping, help: {
         "(!)ping" => "PONG"
       })
+      route(/fix.it/i, :fixit)
+
       # route(/ong$/i, :pong)
+
+      def fixit(response)
+        response.reply 'https://www.youtube.com/watch?v=pFRFRwkDsog'
+      end
 
       def ping(response)
         pong_images = %w( http://img209.imageshack.us/img209/366/toast.gif
