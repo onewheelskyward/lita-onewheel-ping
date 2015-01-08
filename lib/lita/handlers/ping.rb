@@ -140,6 +140,7 @@ module Lita
 	  http://img4.wikia.nocookie.net/__cb20080221152750/uncyclopedia/images/archive/8/84/20080221152925!332253819lsf1.jpg
 	  https://cloud.githubusercontent.com/assets/17722/5541169/2823d6ac-8a89-11e4-86be-2db64cbcb344.gif
 	  http://i.imgur.com/TDZVASd.gif
+	  http://i.imgur.com/52Okqrs.gif
           )
 
         if response.user.name == 'incanus77'  # Hi, Justin!
