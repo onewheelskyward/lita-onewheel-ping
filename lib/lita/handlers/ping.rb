@@ -141,6 +141,7 @@ module Lita
 	  https://cloud.githubusercontent.com/assets/17722/5541169/2823d6ac-8a89-11e4-86be-2db64cbcb344.gif
 	  http://i.imgur.com/TDZVASd.gif
 	  http://i.imgur.com/52Okqrs.gif
+	  http://i.imgur.com/uSvfhtn.gif
           )
 
         if response.user.name == 'incanus77'  # Hi, Justin!
