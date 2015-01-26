@@ -143,6 +143,7 @@ module Lita
 	  http://i.imgur.com/52Okqrs.gif
 	  http://i.imgur.com/uSvfhtn.gif
 	  https://pbs.twimg.com/media/B8DK6NVCMAE6HDB.jpg
+	  http://i.kinja-img.com/gawker-media/image/upload/s--R3Bd1WpW--/c_fit,fl_progressive,q_80,w_636/ebuforyktsypedn4w0to.gif
           )
 
         if response.user.name == 'incanus77'  # Hi, Justin!
