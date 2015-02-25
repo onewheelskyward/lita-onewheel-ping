@@ -146,6 +146,7 @@ module Lita
 	  http://i.kinja-img.com/gawker-media/image/upload/s--R3Bd1WpW--/c_fit,fl_progressive,q_80,w_636/ebuforyktsypedn4w0to.gif
 	  http://4.bp.blogspot.com/-7v7gOaJvQzU/USTfR_MMi0I/AAAAAAAAAPQ/L9bW6nl51D0/s1600/1350490360_guy_jumps_cannon_ball_into_frozen_pond.gif
 	  https://cloud.githubusercontent.com/assets/200357/6088553/96662aec-ae0c-11e4-81f2-9a908a0c88fc.gif
+	  http://i.imgur.com/BY06jWm.gif
           )
 
         if response.user.name == 'incanus77'  # Hi, Justin!
