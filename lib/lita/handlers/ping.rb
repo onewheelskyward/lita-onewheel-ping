@@ -150,6 +150,7 @@ module Lita
 	  http://i.imgur.com/3d0f7u4.gif
 	  http://i.picasion.com/pic63/65844fd04b525e139ad0ce79f795d6ed.gif
 	  http://media.giphy.com/media/j3xC30PDz2QxO/giphy.gif
+	  https://www.youtube.com/watch?v=h0O7biX22SE
           )
 
         if response.user.name == 'incanus77'  # Hi, Justin!
