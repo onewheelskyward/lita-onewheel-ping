@@ -6,7 +6,7 @@ require "lita"
 module Lita
   module Handlers
     class Ping < Handler
-      route(/^\!*ping/i, :ping, help: {
+      route(/^ping/i, :ping, help: {
         "(!)ping" => "PONG"
       })
 #      route(/fix.it/i, :fixit)
