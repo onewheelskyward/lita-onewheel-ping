@@ -154,6 +154,7 @@ module Lita
 	  http://38.media.tumblr.com/e0fdc4dd49b0b2c1398a7fa39399cdbe/tumblr_mt0vshE6LX1rta30ko1_250.gif
 	  http://i.kinja-img.com/gawker-media/image/upload/s--WpkD8yDA--/1329190370893184943.gif
 	  http://giphy.com/gifs/cat-space-star-trek-8AzK0d9yDuU0w
+	  https://i.imgur.com/NMNqH.gif
           )
 
         if response.user.name == 'incanus77'  # Hi, Justin!
