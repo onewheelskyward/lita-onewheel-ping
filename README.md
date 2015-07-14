@@ -7,10 +7,10 @@ TODO: Add a description of the plugin.
 
 ## Installation
 
-Add lita-onewheel-ping2 to your Lita instance's Gemfile:
+Add lita-onewheel-ping to your Lita instance's Gemfile:
 
 ``` ruby
-gem "lita-onewheel-ping2"
+gem "lita-onewheel-ping"
 ```
 
 ## Configuration
