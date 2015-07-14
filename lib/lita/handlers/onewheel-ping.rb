@@ -1,11 +1,11 @@
-require "cgi"
-require "uri"
+require 'cgi'
+require 'uri'
 
-require "lita"
+require 'lita'
 
 module Lita
   module Handlers
-    class Ping < Handler
+    class OnewheelPing < Handler
       route(/^ping/i, :ping, help: {
         "(!)ping" => "PONG"
       })
@@ -5721,6 +5721,6 @@ zoografting
         end
       end
     end
-    Lita.register_handler(Ping)
+    Lita.register_handler(OnewheelPing)
   end
 end
