@@ -156,6 +156,7 @@ module Lita
 	  http://giphy.com/gifs/cat-space-star-trek-8AzK0d9yDuU0w
 	  https://i.imgur.com/NMNqH.gif
 	  http://i.imgur.com/7qnvE2B.gifv
+	  http://media.giphy.com/media/v0Ii1yrFFSDEQ/giphy.gif
           )
 
         if response.user.name == 'incanus77'  # Hi, Justin!
