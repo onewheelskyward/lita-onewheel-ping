@@ -159,6 +159,7 @@ module Lita
 	  http://media.giphy.com/media/v0Ii1yrFFSDEQ/giphy.gif
 	  http://33.media.tumblr.com/c84906d22a3e8d5868440b77ed0ee3dd/tumblr_nstpo7ZfOP1s2yegdo1_400.gif
 	  http://i.imgur.com/9fUu0.gif
+	  https://img.washingtonpost.com/blogs/wonkblog/files/2015/08/7hAJ4qG1.gif
           )
 
         if response.user.name == 'incanus77'  # Hi, Justin!
