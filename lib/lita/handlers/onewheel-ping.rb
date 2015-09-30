@@ -172,6 +172,7 @@ module Lita
                  http://i.imgur.com/cGDUG1B.jpg
                  https://f.cloud.github.com/assets/17722/2141926/8143e812-935e-11e3-9188-e48035860036.jpg
                  https://s3.amazonaws.com/uploads.hipchat.com/81832/590730/MgmFHcYSCMWqfGm/john.jpg
+                 http://pythong.org/hasselhoffian-recursion.gif
           ).sample
         else
           pong = pong_images.sample
