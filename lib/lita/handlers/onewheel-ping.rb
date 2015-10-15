@@ -161,6 +161,7 @@ module Lita
 	  http://i.imgur.com/9fUu0.gif
 	  https://img.washingtonpost.com/blogs/wonkblog/files/2015/08/7hAJ4qG1.gif
 	  https://18f.gsa.gov/assets/blog/cloud-gov/ship-launch.gif
+	  http://i.imgur.com/4N7S30H.gifv
           )
 
         if response.user.name == 'incanus77'  # Hi, Justin!
