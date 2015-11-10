@@ -1,9 +1,9 @@
-# lita-onewheel-ping2
+# lita-onewheel-ping
 
-[![Build Status](https://travis-ci.org/onewheelskyward/lita-onewheel-ping.png?branch=master)](https://travis-ci.org/onewheelskyward/lita-onewheel-ping2)
-[![Coverage Status](https://coveralls.io/repos/onewheelskyward/lita-onewheel-ping/badge.png)](https://coveralls.io/r/onewheelskyward/lita-onewheel-ping2)
+[![Build Status](https://travis-ci.org/onewheelskyward/lita-onewheel-ping.png?branch=master)](https://travis-ci.org/onewheelskyward/lita-onewheel-ping)
+[![Coverage Status](https://coveralls.io/repos/onewheelskyward/lita-onewheel-ping/badge.png)](https://coveralls.io/r/onewheelskyward/lita-onewheel-ping)
 
-TODO: Add a description of the plugin.
+Pings and pongs.
 
 ## Installation
 
@@ -13,10 +13,5 @@ Add lita-onewheel-ping to your Lita instance's Gemfile:
 gem "lita-onewheel-ping"
 ```
 
-## Configuration
-
-TODO: Describe any configuration attributes the plugin exposes.
-
-## Usage
-
-TODO: Describe the plugin's features and how to use them.
+ping
+(pong)
