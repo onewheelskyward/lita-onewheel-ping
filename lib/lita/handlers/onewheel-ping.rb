@@ -167,6 +167,7 @@ module Lita
 	  http://i.imgur.com/o1ByMrG.gif
 	  http://33.media.tumblr.com/64a238fc39c8ee1d313e40ffa48cda10/tumblr_npo9gzHbBj1s2yegdo1_400.gif
 	  http://media.riffsy.com/images/5f514dd1e4c6f45b33d3bf18d063757e/raw
+	  http://i.imgur.com/6gU3gD7.gifv
           )
 
         if response.user.name == 'incanus77'  # Hi, Justin!
