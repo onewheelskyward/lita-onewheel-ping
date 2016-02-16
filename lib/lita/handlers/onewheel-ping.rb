@@ -169,6 +169,7 @@ module Lita
 	  http://media.riffsy.com/images/5f514dd1e4c6f45b33d3bf18d063757e/raw
 	  http://i.imgur.com/6gU3gD7.gifv
 	  https://s-media-cache-ak0.pinimg.com/originals/e9/a6/c7/e9a6c7e4f1b3276e89fe6185f6cae0cf.jpg
+	  https://media.giphy.com/media/12EkJCbpa3hGKc/giphy.gif
           )
 
         if response.user.name == 'incanus77'  # Hi, Justin!
