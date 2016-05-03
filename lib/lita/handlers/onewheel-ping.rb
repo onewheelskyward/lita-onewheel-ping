@@ -170,6 +170,7 @@ module Lita
 	  http://i.imgur.com/6gU3gD7.gifv
 	  https://s-media-cache-ak0.pinimg.com/originals/e9/a6/c7/e9a6c7e4f1b3276e89fe6185f6cae0cf.jpg
 	  https://media.giphy.com/media/12EkJCbpa3hGKc/giphy.gif
+	  http://i.imgur.com/aOTo3Zr.gifv
           )
 
         if response.user.name == 'incanus77'  # Hi, Justin!
