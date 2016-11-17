@@ -176,6 +176,7 @@ module Lita
 	  https://media.giphy.com/media/3o6Zt97pD7Tx3uSJA4/giphy.gif
           https://media3.giphy.com/media/ce1x5VblkD69i/giphy.gif
           http://i.stack.imgur.com/jiFfM.jpg
+          http://meme.loqi.me/m/4kNkk_TY.jpg
           )
 
         if response.user.name == 'incanus77'  # Hi, Justin!
