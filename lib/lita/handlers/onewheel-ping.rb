@@ -18,7 +18,7 @@ module Lita
       end
 
       def ping(response)
-        pong_images = %w( http://img209.imageshack.us/img209/366/toast.gif
+        pong_images = %w( 
           http://i.imgur.com/cRgZZca.gif
           https://dl.dropboxusercontent.com/u/575564/apecgnU.gif
           http://i.imgur.com/1LG3p1Q.gif
@@ -177,6 +177,7 @@ module Lita
           https://media3.giphy.com/media/ce1x5VblkD69i/giphy.gif
           http://i.stack.imgur.com/jiFfM.jpg
           http://meme.loqi.me/m/4kNkk_TY.jpg
+          https://i.imgur.com/wYahuwm.gifv
           )
 
         if response.user.name == 'incanus77'  # Hi, Justin!
