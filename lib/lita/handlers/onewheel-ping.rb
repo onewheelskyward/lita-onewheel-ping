@@ -23,12 +23,10 @@ module Lita
           https://dl.dropboxusercontent.com/u/575564/apecgnU.gif
           http://i.imgur.com/1LG3p1Q.gif
           http://cdn.memegenerator.net/instances/500x/43965451.jpg
-          http://30.media.tumblr.com/tumblr_m3056cCdb71rr3l61o1_500.gif
-          http://giphy.com/gifs/Us2YBZNhO8Pba/tiled
+          https://media.giphy.com/media/Us2YBZNhO8Pba/giphy.gif
           http://media.giphy.com/media/2WhCMpG85VhWE/giphy.gif
           http://media.giphy.com/media/rUCzODGkQF8GY/giphy.gif
           http://i.imgur.com/SbW8sEh.gif
-          http://i.imgur.com/2mBqBxw.jpg
           http://i.imgur.com/YTC0CEK.gif
           http://swng.it/uYr6s.gif
           http://25.media.tumblr.com/fa6c3e51a6464e202c351c607a4ea7b9/tumblr_mqpg9st8K71snfsquo1_400.gif
@@ -41,12 +39,9 @@ module Lita
           https://dl.dropboxusercontent.com/u/575564/tumblr_mppsh4IaB81snfsquo1_400.gif
           http://0.media.collegehumor.cvcdn.com/80/11/a5514aa0d1ad89720722b4fc12a9fe12.gif
           http://media1.break.com/dnet/media/2013/3/29/3d7c8a6a-e7df-41f0-9526-038224f4baa5.gif
-          http://gifs.gifbin.com/082013/1377796061_cat_gets_a_massage.gif
           http://i.imgur.com/UaNm6fv.gif
           http://i.imgur.com/RgTu8yb.gif
           https://github-camo.global.ssl.fastly.net/4ba69a537791f9b79584abccf4b6a925d397acbc/687474703a2f2f6d656469612e67697068792e636f6d2f6d656469612f575257396463645933663839572f67697068792e676966#.png
-          http://img.imgur.com/Ga5GtAM.gif
-          http://www.hdpaperwall.com/wp-content/uploads/2013/11/sad_dog.jpg
           https://i.chzbgr.com/maxW500/1087527680/h0403FA19.jpg
           http://www.stupid.com/assets/images/JRCC_1.jpg
           https://lh6.googleusercontent.com/-KaoDXtxBeBw/UvTxrt7hZqI/AAAAAAAAph4/_fTAcb_9lRI/w280-h154-no/EvolutionDoor.gif
@@ -62,27 +57,20 @@ module Lita
           http://www.totalprosports.com/wp-content/uploads/2012/12/shaq-attacking-pinata-1.gif
           http://www.totalprosports.com/wp-content/uploads/2012/12/shaq-attacking-pinata-2.gif
           http://www.totalprosports.com/wp-content/uploads/2012/12/Jessica-Kastrop-Hit-in-the-Head-with-Soccer-Ball.gif
-          http://oi40.tinypic.com/215y1d.jpg
           http://blog.evaria.com/wp-content/uploads/2008/02/nuns-with-legs.jpg
-          http://www.ivorytowertutoring.com/blog/wp-content/uploads/2011/12/butt-chair.jpg
           http://i.imgur.com/EXHo2Ag.gif
           https://f.cloud.github.com/assets/2894119/2172154/45e89dca-958f-11e3-86a0-63c60967148f.gif
           http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2011/10/Blinky-e1319824451193.jpg
-          http://i0.kym-cdn.com/photos/images/original/000/120/151/space_core_wallpaper_2_by_deathonabun-d3eta23.jpg
           http://i.imgur.com/v1TyHu8.jpg
-          https://dl.dropboxusercontent.com/u/55631203/700_9162-MOTION.gif
-          https://d3j5vwomefv46c.cloudfront.net/photos/large/839385081.gif
           http://31.media.tumblr.com/tumblr_lgq7ygJyck1qdgq6go1_250.gif
           http://i.imgur.com/eVlTtRy.gif
           http://i.imgur.com/civQQne.gif
-          http://a.gifb.in/g60050g6868.gif
           https://i.chzbgr.com/maxW500/8068878848/h0B8447D2/
           http://i.imgur.com/aleMzyT.gif
           http://weknowmemes.com/wp-content/uploads/2012/06/i-dont-always-poo-holy-shit.jpg
           http://i.imgur.com/tQBVFkV.gif
           http://pbs.twimg.com/media/BhQkaF4CcAADpxY.jpg
           http://i.imgur.com/JMXus92.gif
-          http://www.dogster.com/files/Audrey_Baby_Bjorn_Rusty_2.jpg
           http://cl.ly/image/1P372A1U4316/dkwyjs.gif
           http://i.imgur.com/h3N15C2.gif
           http://i.imgur.com/0uDd2Z5.gif
