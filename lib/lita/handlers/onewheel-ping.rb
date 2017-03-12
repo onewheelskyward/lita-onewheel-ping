@@ -184,7 +184,8 @@ module Lita
         else
           pong = pong_images.sample
         end
-        response.reply pong
+        x = response.reply pong
+        Lita.logger.debug x
       end
 
       def pong(response) # BOTFIGHT ON
